@@ -1,4 +1,4 @@
-## FresFreshly_Ground coffee shop
+## FresFreshly_Ground Café
 
 Freshly_Ground is a beloved local café, cherished by both coffee aficionados and book lovers—a cozy spot that blends the serenity of nature with the joy of knowledge. However, the café depended on outdated on-premises systems and had minimal digital infrastructure, which made daily operations slow and cumbersome. Their system was prone to shutdowns, limiting their online visibility and reducing customer engagement. Additionally, they lacked a dependable solution for data backup and recovery. In today’s digital-first environment, this made it challenging for Freshly_Ground to grow, scale, and compete with other cafés that already had robust online platforms. As a result of these on-premises limitations, the café frequently experienced downtime, inefficient operations, and data loss.
 
@@ -41,7 +41,13 @@ Freshly_Ground is a beloved local café, cherished by both coffee aficionados an
   
 ## Our Static Amazon S3 Website
 
+## Café Name 
+
+FreshlyGround Café
+
 <img width ="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ba6700b3e23e7db567046141aef9f897a3eeb331/Projects/Resources/IMG-20260205-WA0006.jpg " />
+
+
 
 
   
