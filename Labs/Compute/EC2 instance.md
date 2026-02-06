@@ -58,7 +58,7 @@ I tested termination protection by attempting to delete the instance while the p
 
 ## what i gained from this lab
 
----
+
 This lab provided me with practical, end-to-end experience working with EC2. I learned how to:
 
 -Deploy and secure a web server using automation
@@ -72,6 +72,8 @@ This lab provided me with practical, end-to-end experience working with EC2. I l
 -Apply safeguards such as termination protection to prevent accidental data loss
 
 Overall, this exercise enhanced my understanding of cloud infrastructure management and gave me valuable practical insight into creating resilient and scalable applications on AWS.
+
+---
 
 
 
