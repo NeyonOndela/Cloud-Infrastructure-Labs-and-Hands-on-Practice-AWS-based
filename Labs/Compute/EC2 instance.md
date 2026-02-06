@@ -54,6 +54,24 @@ I tested termination protection by attempting to delete the instance while the p
 
 <img width="1000" height="500" alt="instance19" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance19.jpg" />
 
+----
+
+## what i gained from this lab
+
+---
+This lab provided me with practical, end-to-end experience working with EC2. I learned how to:
+
+-Deploy and secure a web server using automation
+
+-Configure security groups to manage network traffic efficiently
+
+-Monitor instance health and performance with CloudWatch
+
+-Dynamically scale compute and storage resources
+
+-Apply safeguards such as termination protection to prevent accidental data loss
+
+Overall, this exercise enhanced my understanding of cloud infrastructure management and gave me valuable practical insight into creating resilient and scalable applications on AWS.
 
 
 
