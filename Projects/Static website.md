@@ -35,4 +35,11 @@ Freshly_Ground is a beloved local café, cherished by both coffee aficionados an
   ## AWS Cloud Architecture
 
   <img width="1000" height="500" alt="screenshot" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/ea175b73f5dfa06dff45457e27e87d739f35be2f/Projects/Resources/Screenshot_20260207-004554~2.png" />
+
+  ---
+
+  
+## our Static Amazon S3 Website
+
+
   
