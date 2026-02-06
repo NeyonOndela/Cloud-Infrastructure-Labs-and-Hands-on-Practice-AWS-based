@@ -33,4 +33,23 @@ After the instance was up and running, I reviewed the available monitoring featu
 
 <img width="1000" height="500" alt="instance14" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance14.jpg" />
 
+---
+
+## The instance was resized by modifying the instance type and adjusting the EBS volume to meet the required performance and storage needs.
+
+**How did i accomplish this?** I stopped the EC2 instance and resized it from t3.micro to t3.small, which increased the available memory. I then modified the root EBS volume, expanding it from 8 GiB to 10 GiB, and restarted the instance. This task demonstrated how EC2 resources can be adjusted dynamically to meet changing workload requirements during operation.
+
+<img width ="1000" height="500" alt="instance13" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance15.jpg" />
+
+<img width ="1000" height="500" alt="instance16" src="https://github.com/NeyonOndela/zomato-project-2023/blob/63395a954c26bee0832969ddeea9e7b3e457a822/instance16.jpg" />
+
+
+
+
+
+
+
+
+
+
 
