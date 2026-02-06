@@ -1,7 +1,7 @@
-#AWS EC2 LAB
+#AWS EC2 LAB#
 
 
-##Overview
+##Overview##
 
 This lab provided practical experience with Amazon EC2, covering instance deployment, configuration, security, monitoring, and scaling. It also included deploying a web server and exploring automation and lifecycle management in a real-world cloud environment.
 
