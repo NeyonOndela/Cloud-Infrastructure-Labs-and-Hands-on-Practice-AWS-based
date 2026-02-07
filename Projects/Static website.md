@@ -71,7 +71,15 @@ FreshlyGround Café
   ## Successfully deployed and hosted our website
 
 
-  <img width ="1000" height="500" alt="website" src=" " />
+  <img width ="1000" height="500" alt="website" src="https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/29775ee28ea6f0da76acf111a510085769e7b6aa/Projects/Resources/545637222-6e485e88-4cfc-457f-9123-0085b209ac29~2.png " />
+
+  ## you can access our website on the link below 👇
+
+  https://s3.eu-north-1.amazonaws.com/freshlyground.cafe-static-sitee/index.html
+
+  ---
+
+  
 
   
 
