@@ -79,6 +79,30 @@ FreshlyGround Café
 
   ---
 
+ ## Learning Outcomes
+
+- This project highlights the following skills and concepts:
+
+- Cloud architecture and solution design
+
+- Integration of AWS services
+
+- Planning and executing cloud migration
+
+- Transition from on-premises systems to the cloud
+
+- Cloud security best practices.
+
+- Scalability and capacity planning.
+
+- Business-focused cloud solutions.
+
+- Hands-on, real-world cloud deployment.
+
+-Static website hosting with Amazon S3.
+
+- Cost awareness and optimization.
+
   
 
   
