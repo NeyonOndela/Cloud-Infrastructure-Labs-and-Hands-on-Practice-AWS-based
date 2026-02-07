@@ -115,7 +115,14 @@ FreshlyGround Café’s evolution from a struggling local café to a technology-
 
 - Resilience: Improved reliability and disaster tolerance
 
-- Growth: Seamless scalability across multiple locations
+- Growth: Seamless scalability across multiple locations.
+
+  ## NB
+
+  This is a fictional project developed solely for academic and learning purposes.
+No real café operations, customer data, or sensitive information were used.
+
+---
 
   
 
