@@ -68,4 +68,11 @@ FreshlyGround Café
 
 - Access the site via the S3 website endpoint or a custom domain
 
+  ## Successfully deployed and hosted our website
+
+
+  <img width ="1000" height="500" alt="website" src=" " />
+
+  
+
   
