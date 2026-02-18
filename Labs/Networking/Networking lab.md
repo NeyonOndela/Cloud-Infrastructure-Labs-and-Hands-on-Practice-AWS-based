@@ -16,5 +16,5 @@ I previously reached out to you regarding help setting up my VPC. I thought I kn
 Brock, startup owner"
 
 
-<img width ="1000" height="500" alt="instance1" src=
+<img width ="1000" height="500" alt="instance1" src= "https://github.com/NeyonOndela/AWS-cloud-practitioner-portfolio/blob/f74b1e42e962114d25e9835e5cf877e69705085d/Resources/customer%20arch.jpg" />
  
